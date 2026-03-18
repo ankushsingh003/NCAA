@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
+/march-machine-learning-mania-2026/
+
+# Environment
+.env
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
